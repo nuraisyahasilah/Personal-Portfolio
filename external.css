@@ -29,7 +29,21 @@ h4 {
 	color: red;
 }
 	
+a:link, a:visited
+	{
+		background-color: green;
+		color: yellow;
+		padding: 10px
+		text-allign: center;
+		text-decoration: none;
+		display: inline-block;
+		
+	}
 
+	a:hover, a:active
+	{
+		background-color: skyblue;
+	}
 
 
 
